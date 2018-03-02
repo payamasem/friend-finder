@@ -29,6 +29,21 @@ var friends = [ {
         3,
         3
     ]
+}, {
+    "name" : "Payam",
+    "photo" : "https://avatars2.githubusercontent.com/u/35088259?s=460&v=4",
+    "scores" : [
+        5,
+        5,
+        4,
+        3,
+        5,
+        3,
+        5,
+        3,
+        5,
+        5
+    ]
 }, 
 {
     "name" : "Kim",
