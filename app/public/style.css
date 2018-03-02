@@ -1,0 +1,20 @@
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/630/354/75/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/entertainment/character-experience/hollywood-studios/character-meet-buzz-woody-pixar-place/character-meet-buzz-woody-pixar-place-00.jpg?30012014080631);
+    background-position: 0% 25%;
+    opacity: 0.7;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: whitesmoke;
+    text-shadow: black 0.4em 0.4em 0.4em;
+}
+
+#surveybutton{
+    background-color: lime;
+    color: purple;
+}
+
+body{
+    background-color:gray;
+    color: purple;
+}

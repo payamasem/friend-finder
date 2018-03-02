@@ -1,0 +1,29 @@
+.jumbotron {
+    margin-bottom: 0px;
+    background-color: purple;
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: lime;
+    text-shadow: black 0.4em 0.4em 0.4em;
+}
+
+#homebutton{
+    background-color: lime;
+    color: purple;
+}
+
+#submit{
+    background-color: lime;
+    color: purple;
+}
+
+
+body{
+    background-color: lime;
+    color: purple;
+}
+
+h3{
+
+}
